@@ -248,6 +248,7 @@ section {
 
 li {
 	margin-top: 20px;
+	display: none;
 }
 
 .left ul {
